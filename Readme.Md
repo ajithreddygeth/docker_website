@@ -6,3 +6,8 @@ Docker run
 ```
 $ docker run --rm -p 8080:8080 my_website:0.1
 ```
+
+
+Test:
+
+$ go run main.go
